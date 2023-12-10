@@ -29,7 +29,7 @@ updated_config = (
     '  "disable_udp": {disable_udp},\n'
     '  "obfs": "{obfs}",\n'
     '  "auth": {{\n'
-    '    "mode": "{auth_mode}",\n'
+    '    "mode": "passwords",\n'
     '    "config": ["{config_list}"]\n'
     '  }}\n'
     '}}'
