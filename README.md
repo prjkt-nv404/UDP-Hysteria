@@ -31,6 +31,7 @@ _**(base on lagacy)**_
 - Enhanced network performance on congested networks.
 - Bypassing commercial, academic, or corporate firewalls.
 - Bypassing ISP throttling for improved connection speeds.
+- Create multiple Auth to server as different accounts
 - ...
 
 ## Use Cases
