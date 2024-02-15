@@ -116,11 +116,11 @@ __*Hysteria is an Aperture Internet Laboratory project and is provided as-is wit
 ---
 
 ## Telegram 
- > [💲 Pay](https://t.me/voltverifybot)
+ > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏](https://t.me/voltsshx)
+ > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
 
- > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷 𝙷𝚀 ⚝](https://t.me/voltsshhq)
+ > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
 
 ## Credit
 
