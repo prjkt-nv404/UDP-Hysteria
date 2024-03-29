@@ -115,17 +115,18 @@ __*Hysteria is an Aperture Internet Laboratory project and is provided as-is wit
 
 ---
 
-## Telegram 
- > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
+#### Telegram 
+ > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
- > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
+ > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
 
- > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
+ > [📣 LS Tunnel 📣](https://t.me/lstunnel)  ```Channel```
 
-## Credit
+#### Credit
 
  > [Aperture Internet Laboratory](https://github.com/apernet)
+ > - All binary owners
 
 #
-  > _made from pieces with ❤️_
+  > ```made with 🤍 from Boomerang Nebula```
 #
