@@ -11,18 +11,23 @@ _**(base on lagacy)**_
 <center><img src="https://raw.githubusercontent.com/prjkt-nv404/UDP-Hysteria/main/asset/pnl.jpg" alt="banner" width="400"/></center>
 
 ## Table of Contents
-- [Volt UDP-Hysteria](#volt-udp-hysteria)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Use Cases](#use-cases)
-  - [Modes](#modes)
-  - [Script - Supported OS](#script---supported-os)
-  - [VPS Providers](#vps-providers)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Tweak](#tweak)
-  - [License](#license)
-  - [⚠️ Disclaimer ⚠️](#️-disclaimer-️)
+
+| Section               | Description                                        |
+|-----------------------|----------------------------------------------------|
+| [UDP-Hysteria](#udp-hysteria)          | Overview of Volt UDP-Hysteria                      | 
+| [Features](#features)                            | Key features and benefits                          |
+| [Use Cases](#use-cases)                          | Typical usage scenarios                            |
+| [Modes](#modes)                                  | Available operation modes                          |
+| [Script - Supported OS](#script---supported-os)  | Compatible operating systems                       |
+| [VPS Providers](#vps-providers)                  | Recommended VPS providers                          |
+| [Requirement](#requirement)                      | System and software prerequisites                  |
+| [Installation](#installation)                    | Steps to installation instructions            |
+| [Usage](#usage)                                  | How to use Volt UDP-Hysteria                       |
+| [Tweak](#tweak)                                 | Performance tuning and optimizations                |
+| [Changelog](#changelog)                          | History of changes and updates                     |
+| [⚠️ Disclaimer ⚠️](#️-disclaimer-️)     | Important disclaimers and warnings                |
+
+
 
 ## Features 
 
@@ -57,6 +62,12 @@ _**(base on lagacy)**_
 # VPS Providers
 - Digital Ocean ✅
 - Linode ✅
+
+#### Requirement
+- A Linux base System ```VPS```
+- Domain _(eg: hysteria.voltssh.xyz)_ - _(get a free domain from 'https://duckdns.org')_
+- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
+- Common sense
 
 ## Installation
 
@@ -104,9 +115,22 @@ You can manually tweak/modify the config file at your own risk
 }
 ```
 
-## License
+#### Changelog
 
-This project is licensed under the [MIT License](LICENSE).
+<details class="details" style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer;">🔨 New commit : Refinement  (<a href="https://github.com/prjkt-nv404/UDP-Hysteria" target="_blank">...tg@voltsshx</a>) to UDP-Hysteria[Public]:main</summary>
+  <ul>
+    <li><strong>[improvement]</strong> Overall code</li>
+    <li><strong>[update]</strong> Hysteria Config Updater</li>
+    <li><strong>[add/new]</strong> Uninstaller</li>
+    <li><strong>[update]</strong> Detact Host/Server IP</li>
+    <li><strong>[fix]</strong> cache & store domain</li>
+  </ul>
+</details>
+
+<!-- ## License
+
+This project is licensed under the [MIT License](LICENSE). -->
 
 ---
 
