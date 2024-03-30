@@ -82,7 +82,7 @@ rm -f install.sh; apt-get update -y; apt-get upgrade -y; wget "https://raw.githu
 
 ## Usage
 
-Here's how to use Volt UDP-Hysteria:
+Here's how to use UDP-Hysteria:
 
 > after successful installation, type:
 ```
