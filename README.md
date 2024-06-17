@@ -66,7 +66,6 @@ _**(base on lagacy)**_
 #### Requirement
 - A Linux base System ```VPS```
 - Domain _(eg: hysteria.voltssh.xyz)_ - _(get a free domain from 'https://duckdns.org')_
-- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
 - Common sense
 
 ## Installation
@@ -140,7 +139,6 @@ __*Hysteria is an Aperture Internet Laboratory project and is provided as-is wit
 ---
 
 #### Telegram 
- > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
  > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
 
